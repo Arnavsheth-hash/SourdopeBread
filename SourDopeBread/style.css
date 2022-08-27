@@ -1,0 +1,28 @@
+.logo {
+    width: 3em;
+    height: auto;
+}
+.brown {
+    color: rgb(177, 160, 137);
+}
+.brown-bg{
+    background-color: rgb(177, 160, 137);
+}
+.divider{
+    height: 10px;
+    color: rgb(177, 160, 137);
+    background: rgb(177, 160, 137);
+    margin-left: 1em;
+    margin-right: 1em;
+}
+.lightbrn-bg {
+    background-color: rgba(219, 210, 197, 0.15);
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+.bg-image{
+    width: 25em;
+    height: auto;
+    display: block;
+}
