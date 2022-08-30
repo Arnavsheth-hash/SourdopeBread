@@ -44,12 +44,34 @@
   padding-bottom: 8em;
   text-align: center;
   background-size: cover;
-  background-color: rgb(177, 160, 137);
+  background-color: rgba(219, 210, 197, 0.15);
+  /*
   background-image: url("Banner.png");
+  */
   margin-left: 1em;
   margin-right: 1em;
 }
 .dkbrwn {
-  color: rgb(122, 68, 6);
+  color: rgb(177, 160, 137);
   font-size: 400%;
+}
+.image-col {
+  width: 100%;
+  margin-bottom: 1%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h2 {
+  color: rgb(177, 160, 137);
+  text-align: center;
+  margin-top: 1em;
+}
+h3 {
+  color: rgb(177, 160, 137);
+  margin-top: 1em;
+}
+h6 {
+  color: rgb(177, 160, 137);
+  margin-top: 1em;
 }
