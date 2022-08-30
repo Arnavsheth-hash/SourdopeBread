@@ -75,3 +75,23 @@ h6 {
   color: rgb(177, 160, 137);
   margin-top: 1em;
 }
+
+h4 {
+  color: rgb(177, 160, 137);
+  margin-top: 1em;
+}
+
+
+h1 {
+  color: rgb(177, 160, 137);
+  text-align: center;
+  margin-top: 1em;
+}
+
+ th {
+  font-weight: normal;
+ }
+ .h6 {
+  color: black;
+  margin-top: 1em;
+}
