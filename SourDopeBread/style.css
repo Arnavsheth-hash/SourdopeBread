@@ -1,28 +1,55 @@
 .logo {
-    width: 3em;
-    height: auto;
+  width: 3em;
+  height: auto;
 }
 .brown {
-    color: rgb(177, 160, 137);
+  color: rgb(177, 160, 137);
 }
-.brown-bg{
-    background-color: rgb(177, 160, 137);
+.brown-bg {
+  background-color: rgb(177, 160, 137);
 }
-.divider{
-    height: 10px;
-    color: rgb(177, 160, 137);
-    background: rgb(177, 160, 137);
-    margin-left: 1em;
-    margin-right: 1em;
+.divider {
+  height: 10px;
+  color: rgb(177, 160, 137);
+  background: rgb(177, 160, 137);
+  margin-left: 1em;
+  margin-right: 1em;
 }
 .lightbrn-bg {
-    background-color: rgba(219, 210, 197, 0.15);
-    margin-left: 1em;
-    margin-right: 1em;
+  background-color: rgba(219, 210, 197, 0.15);
+  margin-left: 1em;
+  margin-right: 1em;
 }
 
-.bg-image{
-    width: 25em;
-    height: auto;
-    display: block;
+.bg-image {
+  width: 22%;
+  margin: 1%;
+}
+.container-fluid {
+  margin-left: 1em;
+  margin-right: 1em;
+}
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.header {
+  background-color: rgba(219, 210, 197, 0.15);
+  padding: 5em;
+}
+.title {
+  padding-top: 5em;
+  padding-bottom: 8em;
+  text-align: center;
+  background-size: cover;
+  background-color: rgb(177, 160, 137);
+  background-image: url("Banner.png");
+  margin-left: 1em;
+  margin-right: 1em;
+}
+.dkbrwn {
+  color: rgb(122, 68, 6);
+  font-size: 400%;
 }
